@@ -2,15 +2,15 @@
 
 The topics I have learned while working on this project:
 
-1) Dictionary
-2) Optional
-3) Optional Binding
+1) Class
+2) Structer 
+3) Progress Bar 
 4) Timer
 5) AVAudio Player
-6) Progress Bar
-7) Mutating
-8) Structer
-9) Class
+6) Optional
+7) Optional Binding
+8) Mutating
+9) Dictionary
 10) MVC (Model–view–controller)
 
 
