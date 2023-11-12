@@ -4,6 +4,16 @@ The topics I have learned while working on this project:
 
 1) Dictionary
 2) Optional
+3) Optional Binding
+4) Timer
+5) AVAudio Player
+6) Progress Bar
+7) Mutating
+8) Structer
+9) Class
+10) MVC (Model–view–controller)
+
+
 
 
 <img width="200" alt="LoginScreen" src="https://github.com/FurkanCAPKIN/EggTimerApp/assets/92672616/673c1e48-4e3f-4fd5-89ef-ac5c0027f5b3">
