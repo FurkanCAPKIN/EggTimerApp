@@ -1,5 +1,11 @@
 # EggTimerApp
 
+The topics I have learned while working on this project:
+
+1) Dictionary
+2) Optional
+
+
 <img width="200" alt="LoginScreen" src="https://github.com/FurkanCAPKIN/EggTimerApp/assets/92672616/673c1e48-4e3f-4fd5-89ef-ac5c0027f5b3">
 
 <img width="200" alt="LoginScreen" src="https://github.com/FurkanCAPKIN/EggTimerApp/assets/92672616/7df3cce7-d76f-468d-b461-e63a3f8e4cc6">
