@@ -4,13 +4,13 @@ The topics I have learned while working on this project:
 
 1) Class
 2) Structer 
-3) Progress Bar 
-4) Timer
-5) AVAudio Player
-6) Optional
-7) Optional Binding
+3) Progress Bar
+4) Optional
+5) Optional Binding
+6) AVAudio Player
+7) Dictionary
 8) Mutating
-9) Dictionary
+9) Timer
 10) MVC (Model–view–controller)
 
 
